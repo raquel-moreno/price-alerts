@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-To use price-alerts, simply modify the variables in main.py to your desired values for sender and receiver emails, as well as stock tickers and price limits
+To use price-alerts, simply modify the variables in main.py to your desired values for sender and receiver emails, as well as stock tickers and price limits. 
 Then, once you are ready, execute the Python script
 ```
 python main.py
